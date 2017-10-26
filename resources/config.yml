@@ -1,0 +1,7 @@
+---
+# CustomJQM Configuration
+# You can use & for color codes and {PLAYER} To display the Player Name.
+
+Custom-Join-Message: "&5>&b{PLAYER} Joined the game!"
+Custom-Quit-Message: "&5>&b{PLAYER} Left the game!"
+...
